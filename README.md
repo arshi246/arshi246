@@ -20,11 +20,13 @@ I'm a BSIT student building my skills in Data Science and Artificial Intelligenc
 - **Tools:** Git, GitHub, VS Code
 
 ## 📂 Featured Projects
-- Python Practice Tasks — Basic, Intermediate & Advanced
-- NumPy Practice
-- Pandas Practice
-- Python Task Automation
-- Data Science & AI Projects — in progress
+## 📂 Featured Projects
+
+- 🐍 [Python Practice Tasks](https://github.com/arshi246/Python-Assignment.git) — Basic, Intermediate & Advanced Python tasks.
+- 🔢 [NumPy Practice](https://github.com/arshi246/Numpy.git) — Array operations and numerical computing.
+- 🐼 [Pandas Practice](https://github.com/arshi246/Pandas.git) — Data manipulation and analysis.
+- 💻 [CodeAlpha Projects](https://github.com/arshi246/CodeAlpha_ProjectName-.git) — Practical projects completed during CodeAlpha training.
+
 
 - ## 🤝 Connect With Me
 
