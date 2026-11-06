@@ -37,7 +37,17 @@ An interactive analytics dashboard built in Python to explore sales revenue, pro
 - 🌐 **Live Dashboard:** [Explore Live App](https://ecommerce-business-insights.streamlit.app/)
 - 🐙 **GitHub Repository:** [Ecommerce Analytics Dashboard Repo](https://github.com/arshi246/ecommerce-analytics-dashboard.git)
 
----
+#### 🎂 BirthdayVerse — Interactive Birthday Celebration Experience
+A 5-slide interactive frontend web application engineered with pure **HTML5, Modern CSS3, and Vanilla JavaScript** (zero frameworks). Features synthesized party music via the **Web Audio API**, multi-speed AI voice narration via the **Web Speech Synthesis API**, interactive candle-blowing with **HTML5 Canvas confetti FX**, and a live typewriter keepsake letter.
+- 🌐 **Live Demo:** [https://arshi246.github.io/birthday-verse-arshi/](https://arshi246.github.io/birthday-verse-arshi/)
+- 💻 **GitHub Repo:** [https://github.com/arshi246/birthday-verse-arshi](https://github.com/arshi246/birthday-verse-arshi)
+- 🛠️ **Tech Stack:** `HTML5` · `CSS3 Animations` · `Vanilla JavaScript` · `Web Audio API` · `Speech Synthesis API` · `HTML5 Canvas` · `GitHub Pages`
+
+#### 🎗️ Breast Cancer Patient Outcomes & Statistical Analytics Dashboard
+An end-to-end single-page **Streamlit** analytics platform analyzing 4,024 SEER-style clinical records (3,443 cleaned). Reproduces a complete data engineering pipeline (deduplication, simultaneous 1.5× IQR outlier removal, feature engineering), interactive **Plotly** cohort visualizations, an 8-step **Statistics & Probability** module (**SciPy**), and **25 automated pytest** unit/UI tests.
+- 🌐 **Live Demo:** [https://breast-cancer-outcomes.streamlit.app](https://breast-cancer-outcomes.streamlit.app)
+- 💻 **GitHub Repo:** [https://github.com/arshi246/breast-cancer-eda-statistics-probability](https://github.com/arshi246/breast-cancer-eda-statistics-probability)
+- 🛠️ **Tech Stack:** `Python` · `Streamlit` · `pandas` · `NumPy` · `Plotly` · `SciPy` · `pytest`
 
 ## 💼 Internship Projects
 - 💻 **CodeAlpha Internship Tasks:** [View Repository](https://github.com/arshi246/CodeAlpha_ProjectName-.git) — Practical projects and assignments completed during the CodeAlpha internship program.
